@@ -185,7 +185,8 @@ institute.html
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="1032" height="390" alt="image" src="https://github.com/user-attachments/assets/82e0c937-fad3-4454-b659-42eb49fe8a2b" />
+<img width="1707" height="688" alt="image" src="https://github.com/user-attachments/assets/609a1a9e-0054-487b-894e-52676d696fb5" />
+
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
