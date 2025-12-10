@@ -179,7 +179,6 @@ institute.html
     </body>
 </html>
 ```
-```
 
 ## OUTPUT
 
